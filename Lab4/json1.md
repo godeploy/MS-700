@@ -1,4 +1,3 @@
-```json
 {
 
 "template@odata.bind":"https://graph.microsoft.com/v1.0/teamsTemplates('standard')",
@@ -10,4 +9,4 @@
 "visibility": "Public" 
 
 }
-```
+
